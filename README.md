@@ -213,7 +213,10 @@ plt.show()
 ```
 
 ## OUTPUT:
-Total time taken: 0.160096 milliseconds
+
+
+<img width="554" height="554" alt="images" src="https://github.com/user-attachments/assets/2fa72c1c-ca17-43dc-974e-b692ea15d572" />
+
 <img width="547" height="542" alt="image" src="https://github.com/user-attachments/assets/32f03415-8919-44b0-8595-749b4ad31069" />
 
 
